@@ -1,0 +1,1 @@
+This project is a browser based etch-a-sketch using Javascript and DOM manipulation, HTML, CSS and Flexbox. It will be a 64x64 grid you can hover over.
